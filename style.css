@@ -105,7 +105,7 @@ img {
 }
 
 code {
-	background-color: #16b0a6;
+	background-color: red;
 	border-radius: 2px;
 	color: #fff;
 	padding: 2px 4px;
@@ -124,7 +124,7 @@ pre code {
 }
 
 del{
-	text-decoration-color: #16b0a6;
+	text-decoration-color: red;
 }
 
 kbd {
